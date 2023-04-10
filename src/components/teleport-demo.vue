@@ -40,6 +40,6 @@ let isShow = ref(true)
   position: fixed;
   right: 100px;
   bottom: 100px;
-  border: 3px solid black;
+  /* border: 3px solid black; */
 }
 </style>
